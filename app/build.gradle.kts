@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "id.kuato.woahelper"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "id.kuato.woahelper"
