@@ -1749,6 +1749,7 @@ public class MainActivity extends AppCompatActivity {
 				this.setContentView(this.x.getRoot());
 				break;
 		}
+		super.onBackPressed();
 	}
 	
 	public void flash(String uefi) {
